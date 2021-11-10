@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="aplicativoMobile.principal">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button x:Name="btnVoltar"
+                    Text="Voltar"
+                    TextColor="White"
+                    BackgroundColor="DodgerBlue"
+                    Clicked="btnVoltar_Clicked"/>
+            <Label x:Name="lblTitulo"
+                   Text="Executa o método 'String'"
+                   FontSize="Medium"
+                   HorizontalTextAlignment="Center"
+                   Margin="100, 20, 100, 20" />
+            <Entry x:Name="entryPalavra"
+                   Keyboard="Text"
+                   Placeholder="Digite uma palavra aqui"
+                   PlaceholderColor="LightGray"
+                   Margin="100, 0, 100, 20" />
+            <Button x:Name="btnExecutar"
+                    Text="Executar"
+                    TextColor="White"
+                    BackgroundColor="DodgerBlue"
+                    CornerRadius="20"
+                    Margin="100, 0, 100, 0"
+                    Clicked="btnExecutar_Clicked" />
+            <Button x:Name="btnLimpar"
+                    Text="Limpar"
+                    TextColor="White"
+                    BackgroundColor="Red"
+                    CornerRadius="20"
+                    Margin="300, 0, 100, 20"
+                    Clicked="btnLimpar_Clicked" />
+            <Label x:Name="lblResultado"
+                   Text="Veja o resultado!"
+                   HorizontalTextAlignment="Center"
+                   FontSize="Small"
+                   BackgroundColor="LightGray"
+                   Margin="100, 0, 100, 20" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

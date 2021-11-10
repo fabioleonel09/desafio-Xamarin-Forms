@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{05F9536C-7EB5-43BE-B1FB-7BCBD36014E2}|Default" VersionControlDisabled="True">
+  <MonoDevelop.Ide.ItemProperties.aplicativoMobile.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="aplicativoMobile.Android/aplicativoMobile.Android.csproj">
+    <Files>
+      <File FileName="aplicativoMobile.Android/aplicativoMobile.Android.csproj" Line="94" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aplicativoMobile" expanded="True">
+            <Node name="aplicativoMobile" expanded="True" />
+            <Node name="aplicativoMobile.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

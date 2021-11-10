@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="aplicativoMobile.cadastro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button x:Name="btnVoltar"
+                    Text="Voltar"
+                    BackgroundColor="DodgerBlue"
+                    TextColor="White" 
+                    Clicked="btnVoltar_Clicked"/>
+            <Label Text="Preencha o cadastro:"
+                   FontAttributes="Bold"
+                   Margin="10, 0, 10, 10" />
+            <Entry x:Name="entryNome"
+                   Keyboard="Text"
+                   Placeholder="Digite o seu nome completo*"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entryDN"
+                   Keyboard="Text"
+                   Placeholder="Data de nascimento dd/mm/aaaa"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entryCPF"
+                   Keyboard="Text"
+                   Placeholder="CPF, apenas números*"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entryEndereco"
+                   Keyboard="Text"
+                   Placeholder="Endereço"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entryComplemento"
+                   Keyboard="Text"
+                   Placeholder="Complemento"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entryCEP"
+                   Keyboard="Text"
+                   Placeholder="CEP do endereço"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entryEmail"
+                   Keyboard="Text"
+                   Placeholder="Digite o seu e-mail"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entrySenha"
+                   Keyboard="Text"
+                   Placeholder="Digite uma senha*"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Entry x:Name="entryConfirmeSenha"
+                   Keyboard="Text"
+                   Placeholder="Confirme sua senha*"
+                   PlaceholderColor="LightGray"
+                   Margin="10, 0, 10, 0" />
+            <Label x:Name="lblObrigatorios"
+                   Text="*Campos de preenchimento obrigatório."
+                   Margin="10, 0, 10, 10" />
+            <Button x:Name="btnConfirmar"
+                    Text="Cadastrar!"
+                    TextColor="White"
+                    BackgroundColor="DodgerBlue"
+                    CornerRadius="20"
+                    Margin="100, 20, 100, 20"
+                    Clicked="btnConfirmar_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

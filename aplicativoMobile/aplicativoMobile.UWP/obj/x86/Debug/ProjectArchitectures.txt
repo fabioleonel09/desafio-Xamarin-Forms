@@ -1,0 +1,1 @@
+C:\Users\Meus documentos\source\repos\aplicativoMobile\aplicativoMobile.UWP\aplicativoMobile.UWP.csproj;x86

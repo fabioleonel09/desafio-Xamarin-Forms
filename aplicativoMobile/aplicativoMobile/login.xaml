@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="aplicativoMobile.login">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="https://e7.pngegg.com/pngimages/954/260/png-clipart-whirlpool-whirlpool-s-blue-computer-wallpaper.png"
+                   WidthRequest="200"/>
+            <Label x:Name="lblTitulo"
+                   Text="Seja bem-vindo ao Aplicativo Mobile!" 
+                   FontSize="Title" 
+                   TextColor="White"
+                   HorizontalTextAlignment="Center" 
+                   VerticalTextAlignment="Center"
+                   FontAttributes="Bold" 
+                   BackgroundColor="DodgerBlue"/>
+            <Label x:Name="lblLogin" 
+                   Text="Login" 
+                   FontSize="Title"
+                   TextColor="DodgerBlue"
+                   HorizontalTextAlignment="Center" 
+                   FontAttributes="Bold"/>
+            <Entry x:Name="entryCPF" 
+                   Placeholder="Insira o seu CPF, apenas números."
+                   Keyboard="Numeric"
+                   PlaceholderColor="LightGray"
+                   Margin="100,0,100,0" />
+            <Entry x:Name="entrySenha"
+                   Placeholder="Insira sua senha."
+                   IsPassword="True"
+                   Keyboard="Text"
+                   PlaceholderColor="LightGray"
+                   Margin="100,0,100,0" />
+            <Button x:Name="btnEnter"
+                    Text="Entrar"
+                    TextColor="White"
+                    BackgroundColor="DodgerBlue" 
+                    CornerRadius="20"
+                    Margin="100,0,100,0"
+                    Clicked="btnEnter_Clicked"/>
+            <Button x:Name="btnCadastrar"
+                    Text="Não é cadastrado? Clique aqui."
+                    TextColor="White"
+                    BackgroundColor="DodgerBlue"
+                    CornerRadius="20" 
+                    Margin="100,20,100,0" 
+                    Clicked="btnCadastrar_Clicked"/>
+            <Label x:Name="lblRodape"
+                   Text="Copyright - 2021. Todos os direitos reservados."
+                   TextColor="Black"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="End" 
+                   Margin="100,100,100,10"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

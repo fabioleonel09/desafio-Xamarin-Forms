@@ -1,0 +1,54 @@
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.deps.json
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.dll
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/ref/aplicativoMobile.dll
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.pdb
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.csproj.AssemblyReference.cache
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.AssemblyInfoInputs.cache
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.AssemblyInfo.cs
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.csproj.CoreCompileInputs.cache
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.dll
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/ref/aplicativoMobile.dll
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.pdb
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/login.xaml.g.cs
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/cadastro.xaml.g.cs
+C:/Users/Meus documentos/source/repos/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/principal.xaml.g.cs
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.deps.json
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/ref/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.pdb
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.csproj.AssemblyReference.cache
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/cadastro.xaml.g.cs
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/login.xaml.g.cs
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/principal.xaml.g.cs
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.AssemblyInfoInputs.cache
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.AssemblyInfo.cs
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.csproj.CoreCompileInputs.cache
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/ref/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/DESAFIO XAMARIN/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.pdb
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.deps.json
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/ref/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/bin/Debug/netstandard2.0/aplicativoMobile.pdb
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.csproj.AssemblyReference.cache
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/cadastro.xaml.g.cs
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/login.xaml.g.cs
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/principal.xaml.g.cs
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.AssemblyInfoInputs.cache
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.AssemblyInfo.cs
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.csproj.CoreCompileInputs.cache
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/ref/aplicativoMobile.dll
+/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile/obj/Debug/netstandard2.0/aplicativoMobile.pdb

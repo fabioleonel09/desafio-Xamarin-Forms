@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhzS/J9LseddZ8A4xc8sE0mPTOz3CvUzOsKq2ugIT5JyuQdZ6/n8Aonua2psgH7tcR6eiJ71iUf+RcKRIJ5xBw==",
+  "success": true,
+  "projectFilePath": "/Users/fabioleonel/Desktop/desafioXamarin/aplicativoMobile/aplicativoMobile.iOS/aplicativoMobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/fabioleonel/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/fabioleonel/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/fabioleonel/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
